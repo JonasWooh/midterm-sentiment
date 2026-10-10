@@ -1,0 +1,44 @@
+# Stage-1 (full-corpus) NMF topics, K = 35 (max mean NPMI over the K grid).
+# Each topic is classified as `issue` (policy/performance content) or `process`
+# (horse race, candidates, primaries, results, election logistics, party labels,
+# subreddit meta-text, generic one-word themes such as 'support'/'America', miscellany). Labels were assigned by reading the top-15
+# terms and eight representative documents (outputs/tables/topics_raw.csv)
+# BEFORE any sentiment, prediction-market or equity data were examined.
+# Stage 2 removes vocabulary whose stage-1 loading mass is >= 80% in `process`
+# topics, so that the issue model is not dominated by electoral vocabulary.
+topics:
+  0:  {label: "Senate races (MI, TX, AK, ME, GA)", kind: process}
+  1:  {label: "Trump administration, economy, tariffs, prices", kind: issue}
+  2:  {label: "House races and seats", kind: process}
+  3:  {label: "Subreddit meta / moderator text", kind: process}
+  4:  {label: "Primaries and primary results", kind: process}
+  5:  {label: "Democrats win / flip / hold seats", kind: process}
+  6:  {label: "Iran war, Strait of Hormuz, Israel", kind: issue}
+  7:  {label: "Supreme Court, maps, mail-in ballots", kind: issue}
+  8:  {label: "Republicans win / lose, warnings", kind: process}
+  9:  {label: "Democratic Party, democratic socialists, nominations", kind: process}
+  10: {label: "Texas Senate race (Talarico, Paxton, Cornyn)", kind: process}
+  11: {label: "Key races to watch", kind: process}
+  12: {label: "Voting rights, early and mail voting", kind: issue}
+  13: {label: "State legislative seats, special elections", kind: process}
+  14: {label: "GOP primaries and convention", kind: process}
+  15: {label: "Ballots, county votes, voter guides", kind: process}
+  16: {label: "Political views, media, parties (meta)", kind: process}
+  17: {label: "Congressional districts, special elections", kind: process}
+  18: {label: "Presidential campaigning, rallies, 2028", kind: process}
+  19: {label: "Epstein files", kind: issue}
+  20: {label: "Republican Party primaries and candidates", kind: process}
+  21: {label: "Generic 'do you support ...' questions", kind: process}
+  22: {label: "Campaign launches ahead of November", kind: process}
+  23: {label: "Trump approval rating", kind: issue}
+  24: {label: "Election results and takeaways", kind: process}
+  25: {label: "Generic 'United States' discussion", kind: process}
+  26: {label: "Maine Senate race (Platner, Collins, Mills)", kind: process}
+  27: {label: "Generic 'America' slogans (MAGA, SAVE America)", kind: process}
+  28: {label: "Governor races (CA etc.)", kind: process}
+  29: {label: "Weekly general chat threads (meta)", kind: process}
+  30: {label: "North/South Carolina races", kind: process}
+  31: {label: "White House ballroom, press, UFC (misc.)", kind: process}
+  32: {label: "Data centers and opposition", kind: issue}
+  33: {label: "ICE, immigration enforcement, Minneapolis shooting", kind: issue}
+  34: {label: "Candidates running, debates", kind: process}

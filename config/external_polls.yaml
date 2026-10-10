@@ -1,0 +1,20 @@
+# External survey evidence used to triangulate the text-based issue ranking.
+# Values are transcribed from the cited releases (retrieved 2026-10-08).
+emerson_2026_09:
+  source: "Emerson College Polling, September 2026 National Poll (fielded 2026-09-21/22, n=1,000 likely voters)"
+  url: "https://emersoncollegepolling.com/september-2026-national-poll-democrats/"
+  most_important_issue_pct: {COST: 41, DEMOC: 17, IMMIG: 13, HEALTH: 12}
+  note_mip: "COST = 'the economy'; remaining 17% not broken out in the release"
+  importance_mean_1to5: {IRAN: 3.87, JOBS: 3.80, TARIFF: 3.72, ENERGY: 3.69, IMMIG: 3.69, AI: 3.66, RATES: 3.55, ISRAEL_GAZA: 3.32, DATA_CENTERS: 3.21}
+deseret_hinckley_2026_09:
+  source: "Deseret News / Hinckley Institute national survey by Morning Consult, published 2026-09-29"
+  url: "https://www.deseret.com/politics/2026/09/29/voters-in-utah-and-nationally-say-economy-and-inflation-are-top-issues-in-november-midterm-elections/"
+  extremely_important_pct: {INFLATION: 55, ECONOMY_JOBS: 54}
+ap_kff_rural_2026_08:
+  source: "AP/KFF Rural Voters Survey (fielded 2026-08-12/24, n=2,241 rural registered voters)"
+  url: "https://www.axios.com/2026/09/27/rural-voters-cost-of-living-midterms"
+  extremely_important_pct: {COST: 69, HEALTH: 56, GOVT_FRAUD: 54}
+morgan_stanley_2026_09:
+  source: "Morgan Stanley Wealth Management, 'The Midterm Election Signals Investors Should Watch' (2026-09-22)"
+  url: "https://www.morganstanley.com/insights/articles/midterm-election-market-impact-2026"
+  note: "Frames affordability as the central issue; gasoline price growth 29.5% y/y, consumer sentiment 47.8"

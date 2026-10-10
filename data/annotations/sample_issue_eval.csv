@@ -1,0 +1,551 @@
+item,doc_id,issue,text
+E0001,i_COST_19d64a98a7b4,COST,"Wages are up, but still being outpaced by inflation"
+E0002,i_IMMIG_48bb5337d8dd,IMMIG,U.S. judge in Massachusetts pauses end of deportation protections for some Somali immigrants
+E0003,i_AI_89808e3b6016,AI,STATEMENT: Senator Kristen Gonzalez on First-in-the-Nation Statewide Data Center Moratorium in Governor Hochul’s Executive Order
+E0004,i_HEALTH_96a61477ffe1,HEALTH,Protecting Spouses of Medicaid Applicants: 2023 Guidelines
+E0005,i_TARIFF_20ff1b38aa1f,TARIFF,UK manufacturers to save millions of pounds a year as government removes offshore wind energy tariffs
+E0006,i_SOCIAL_9a8ef9125c85,SOCIAL,"How federal initiatives to end DEI shaped Tulane’s campus, 1 year later"
+E0007,i_IMMIG_0dcb18eb77e9,IMMIG,Immigration enforcement in Beechview brings tense scene to Las Palmas
+E0008,i_COST_5690e94e5523,COST,"Adam Posen on Trump policies: Lagged inflation, possible financial instability"
+E0009,i_TRUMP_96becf8aaf62,TRUMP,Trump approval rating falls to 33% as Americans expect prolonged Iran conflict
+E0010,i_SOCIAL_4efeea1b03b7,SOCIAL,'The last straw': Family plans to leave the state after Gov. Little signs transgender bathroom bill into law
+E0011,i_HEALTH_6c05ff9b8f09,HEALTH,Urban safety-net hospitals: The unseen victims of Medicaid cuts
+E0012,i_ENERGY_2a86a081b7d0,ENERGY,"Dems: Win on Electricity Prices, Make Electricity Cheaper"
+E0013,i_DEMOC_b8790333df3c,DEMOC,Democrats consider partisan redistricting for 2028
+E0014,i_IRAN_0cbe5dcf7ade,IRAN,Are We Really Back at War With Iran?
+E0015,i_SOCIAL_a24fe2c66c64,SOCIAL,Advocates worry that the military's DEI purge may discourage sexual harassment and assault reports
+E0016,i_TRUMP_30f719d24bcb,TRUMP,Can Lee Jae Myung win back a public losing faith?
+E0017,i_TARIFF_e97fa50c34d2,TARIFF,"Court rejects Trump tariffs, dismisses claims from NC and most states"
+E0018,i_DEMOC_b08b6db867e4,DEMOC,"Republicans gained edge over Democrats in redistricting battle, internal party assessment finds"
+E0019,i_SOCIAL_ac64ac445ec1,SOCIAL,"MPS CEO says no merger talks with BPM, focus is on Mediobanca"
+E0020,i_HEALTH_5465b19386fd,HEALTH,"Kennedy, Oz contend fraud stop led to Obamacare drop"
+E0021,i_SOCIAL_828aa3a8c82b,SOCIAL,Opinion | I'm a state rep in Kansas. A new law targeting trans people like me won't make me leave.
+E0022,i_HEALTH_ed653e75dabe,HEALTH,"Medicaid work requirements, redeterminations will cause up to 75K to lose their health care in WV"
+E0023,i_ENERGY_e66c81c1ac46,ENERGY,Gas prices climb in Maryland amid war with Iran
+E0024,i_DEMOC_c44b14d90f51,DEMOC,'The momentum in Florida is real.' Democrat says the gerrymandering in her state will backfire.
+E0025,i_FOREIGN_aa319d3c3f23,FOREIGN,"Ukraine's military makes gains in southeast region of Zaporizhzhia, Kyiv says"
+E0026,i_TARIFF_a4cff9a88084,TARIFF,"Trump signs Russia sanctions bill with 100% tariff threat for India, China"
+E0027,i_TARIFF_e71253fd37de,TARIFF,"Trump Insists Tariffs Will Buoy the Economy. For Now, He’s on Damage Control."
+E0028,i_ENERGY_7dd1a8380ddf,ENERGY,Gas prices are about to go even higher. Here’s how to use an e-bike to save money
+E0029,i_HEALTH_65cf5a32621f,HEALTH,US healthcare spending soars to over $5 trillion in 2024
+E0030,i_ENERGY_9e1fcb52f518,ENERGY,"Trump: ‘When oil prices go up, we make a lot of money’"
+E0031,i_DEMOC_61b71e9ef700,DEMOC,"In major rebuke, federal judge blocks key parts of Trump’s anti-voting order"
+E0032,i_HEALTH_3565094d80cf,HEALTH,Marrying for health insurance? The ACA cost crisis forces some drastic choices
+E0033,i_TRUMP_6c239d85772f,TRUMP,"Trump’s Approval Stays Strong With GOP, But Weakens Among Indie Voters: I&I/TIPP Poll"
+E0034,i_ENERGY_27862f62f728,ENERGY,"As fall hits, Mass. home heating oil prices jump nearly 75% from a year ago"
+E0035,i_IMMIG_03d288ca64da,IMMIG,"Guatemala: Immigration Rules Overhauled to Introduce Remote Work Pathways, Simplify Family Processing and Strengthen Compliance"
+E0036,i_TRUMP_c151911651fe,TRUMP,Donald Trump’s Approval Rating Plunges to Record Low in Conservative Poll
+E0037,i_HEALTH_497a2bd2f9a2,HEALTH,California Health Benefits Survey 2025
+E0038,i_TRUMP_db9cc0573e76,TRUMP,Trump's Current Average Approval Rating Revealed
+E0039,i_IRAN_cfb72289b73b,IRAN,"US arms sales to Taiwan unrelated to Iran war, source says"
+E0040,i_COST_69e8d0c52c0a,COST,News Wrap: Inflation report shows the biggest increase since 2024
+E0041,i_COST_1ee022ea887f,COST,Is H-E-B cheaper than Walmart? How 2 popular Texas grocery stores rank
+E0042,i_TRUMP_82add962b210,TRUMP,Trump approval rating drops to record low in new poll
+E0043,i_FOREIGN_b7f795349c24,FOREIGN,Zelenskiy says frontline situation best for Ukraine in the last 10 months
+E0044,i_HEALTH_68419d40bea5,HEALTH,Opinion: The healthcare subsidy paradox
+E0045,i_IMMIG_4c69a44a9f69,IMMIG,"Amid Trump immigration crackdown, Texas habeas cases surge"
+E0046,i_HEALTH_bb6fbbfcb7e1,HEALTH,McKesson confirms data theft in cyberattack involving third-party apps
+E0047,i_AI_c27baa7eb538,AI,New study examines data center boom and impact on Appalachian communities
+E0048,i_IRAN_f3abeff779ad,IRAN,"Anthropic’s Claude used by Pentagon in war with Iran, official confirms"
+E0049,i_COST_070647a55331,COST,"A’s for all? Grade inflation suppresses value of GPA in job market, merit awards"
+E0050,i_COST_7378de550add,COST,"Florida teachers rank near bottom in cost-of-living-adjusted pay, study finds"
+E0051,i_ENERGY_df4481e6f6db,ENERGY,"Oceana Group posts flat revenue, drop in profit amid challenging drop in fish oil prices"
+E0052,i_COST_99badeb71e3a,COST,"Consumer Prices, OECD - Updated: 6 July 2026"
+E0053,i_DEMOC_3130ce98b4e8,DEMOC,Election Integrity Is About Protecting Every Voter — And Every Candidate
+E0054,i_SOCIAL_75841bb9a3b2,SOCIAL,'New girls clubs' took on the old boys. Now Trump wants to ban them
+E0055,i_SOCIAL_f527b14fa525,SOCIAL,Maine inmate files suit over housing of transgender prisoner at women's prison
+E0056,i_IRAN_b6fa004046be,IRAN,Iran war brings Turkey-PKK peace process to near standstill
+E0057,i_IRAN_39e06ae739d1,IRAN,The Iran war: Farmers in Brazil and Argentina face rising fertilizer and energy prices
+E0058,i_COST_692d87f2afa7,COST,House sends sweeping bipartisan housing package to Trump’s desk
+E0059,i_HEALTH_757e165be043,HEALTH,US agency announces interim guidance on Medicaid work requirements
+E0060,i_IRAN_2a4168cf6ffa,IRAN,"Iran war munitions spending led to inventory problems, Pentagon inspector says"
+E0061,i_FOREIGN_2cb266037540,FOREIGN,Venezuela Fury's 'bid to become a millionaire by 18' with beauty business plans
+E0062,i_SOCIAL_076315c5640c,SOCIAL,"KCKPS fires back at DOJ over transgender student records dispute, denies any FERPA violations"
+E0063,i_DEMOC_346aa63ec790,DEMOC,"Redistricting Battles, Set Off by Trump, Have Few Parallels in U.S. History"
+E0064,i_AI_321dc5ca7ba3,AI,Mayor says data centers not allowed in Fresno. So why is city mulling 10-year ban?
+E0065,i_FOREIGN_7ee081b183db,FOREIGN,"Taiwan’s Navy conducts a goodwill visit to Belize after 13-year hiatus, demonstrating strong Taiwan-Belize ties"
+E0066,i_COST_a3574514b886,COST,High Grocery Prices Still Squeezing Philly Area Families: What To Know
+E0067,i_SOCIAL_2040a4111772,SOCIAL,"DOJ probes housing policies for transgender inmates in California, Maine prisons"
+E0068,i_IRAN_14e412e30a1a,IRAN,"The war with Iran: stalemate, or checkmate? | The Week US"
+E0069,i_ENERGY_a9bff4e5b3c3,ENERGY,Gas prices jump amid Strait of Hormuz blockade
+E0070,i_ENERGY_794439e91276,ENERGY,Duke Energy Says Florida Customers Will Save $1 Billion in Energy Costs
+E0071,i_ENERGY_037e548ff9f9,ENERGY,Gas Prices Remain High as August Will Likely Set New Record
+E0072,i_IRAN_5e2e5d6aa62c,IRAN,Israeli defense ministry demands $2 billion boost to counter Iran’s rapid military buildup
+E0073,i_FOREIGN_e6d65edf9783,FOREIGN,US to deploy NMESIS anti-ship system on Japanese island closest to Taiwan
+E0074,i_AI_36bedeb51e29,AI,"Hut 8 Signs 15-Year, 245 MW AI Data Center Lease at River Bend Campus with Total Contract Value of $7.0 Billion"
+E0075,i_FOREIGN_bd5b995dc7b5,FOREIGN,Analyst breaks down challenges U.S. will face to unlock Venezuela's oil
+E0076,i_AI_cee4cdc6c47e,AI,Fetal gestational age estimation using artificial intelligence on non-targeted ultrasound images and video
+E0077,i_HEALTH_8fa3ab36b881,HEALTH,Best Online Bachelor’s in Healthcare Administration Programs of 2026
+E0078,i_IMMIG_c4cde5c47f3a,IMMIG,Amanpour and Company | The Human Cost of Trump’s Immigration Crackdown | Season 2026
+E0079,i_COST_e5389a72d7c2,COST,Cooper’s campaign launches ad attacking Whatley over inflation claims
+E0080,i_IRAN_9974d0e5ab15,IRAN,EXCLUSIVE: Pentagon spars with SpaceX over Starlink price hike during Iran war
+E0081,i_TRUMP_b1023d237ac4,TRUMP,Trump Approval Rating Among Independents Sparks Midterm Warning Sign
+E0082,i_TRUMP_7664e2da0a3f,TRUMP,LETTER: Of course Donald Trump’s approval rating is low | Letters | Opinion
+E0083,i_DEMOC_40d6e87a4acb,DEMOC,US midterm elections 2026: 34.8 million Americans are voting in new house districts; here's how redistrict
+E0084,i_TARIFF_bf14a230894d,TARIFF,"Trump administration lifts cocoa tariffs, but Raleigh chocolatier waits for relief"
+E0085,i_FOREIGN_4d913b4942c8,FOREIGN,Japan joins PURL programme and allocates first US$14.6m for Ukraine
+E0086,i_IRAN_4057512a2599,IRAN,"Most Americans do not support latest Iran strikes, 3 polls find"
+E0087,i_ENERGY_94203bb99c75,ENERGY,"Gas prices have fallen for 3 straight weeks, but they're still above $4 a gallon"
+E0088,i_IMMIG_c10807b61200,IMMIG,"After Supreme Court setback, Trump again targets immigration by expanding definition of birthright citizenship"
+E0089,i_COST_380eb872f46c,COST,Colorado House candidates debate budget and affordability in Pueblo
+E0090,i_AI_4b4018092167,AI,Anger over plans for data center at Truman Brewery in London's Brick Lane
+E0091,i_FOREIGN_5ead49631409,FOREIGN,Strengthening Ukraine’s Air Defense and Agreements on Drone Deals: Results of the President’s Visits to Germany and Norway
+E0092,i_HEALTH_8fdc30b62ce6,HEALTH,Disrupting the Marketplace: How the ACA Expiring Tax Credits Could Impact Health Care Costs
+E0093,i_TRUMP_83b2ce811c39,TRUMP,Donald Trump’s approval rating ticks up as 2026 begins. Here’s what the polls show
+E0094,i_FOREIGN_a41f2054ad5e,FOREIGN,Venezuela's oil revival brings hope but little relief for workers
+E0095,i_DEMOC_60a7e46a0c26,DEMOC,"Braun issues endorsements for lawmakers, including some who voted against redistricting"
+E0096,i_SOCIAL_b1b2b7b254a8,SOCIAL,DOJ pleads with Supreme Court to save ban on transgender treatments in federal prisons
+E0097,i_COST_fada23d98322,COST,"Rising Costs, Shrinking Affordability: The State of the Auto Market in 2025"
+E0098,i_IRAN_0446e3aaafe9,IRAN,Portugal Investigates Legality of U.S. Use of Lajes Air Base in War with Iran
+E0099,i_IRAN_66db267e0166,IRAN,Independent Budget Office Estimates Iran War Has Cost $38 Billion
+E0100,i_SOCIAL_c884272f92ff,SOCIAL,"Local politicians, advocates decry Supreme Court ruling allowing bans on transgender girls in sports"
+E0101,i_HEALTH_b4651a8082ef,HEALTH,How States Verify Citizenship and Immigration Status in Medicaid
+E0102,i_IMMIG_4a9eea3c7a1d,IMMIG,Supreme court conservatives accused of advancing ‘white-supremacist agenda’ | US immigration
+E0103,i_HEALTH_ea06bbcc05b7,HEALTH,"Shane Strum named permanent Memorial Healthcare CEO, will still lead Broward Health"
+E0104,i_TARIFF_9fb5166c3a75,TARIFF,"The Trump Administration’s Trade Deals Are the Epitome of Corporate-Style ‘Short-Termism’ in Foreign Policy, and the American People Will Pay the Price for Years To Come"
+E0105,i_COST_a86d60129f0e,COST,Health Care Costs Tops the Public’s Economic Worries as the Runup to the Midterms Begins; Independent Voters Are More Likely to Trust Democrats than Republicans on the Issue
+E0106,i_FOREIGN_a35ebe1b7445,FOREIGN,Four years of war: Ukraine has held the line. It is time for Europe to secure the future.
+E0107,i_FOREIGN_1330a688e688,FOREIGN,"Exclusive | Trump, After Call With China’s Xi, Told Tokyo to Lower the Volume on Taiwan"
+E0108,i_IMMIG_48b508d22d0a,IMMIG,Trump shakes up immigration enforcement leadership in Minnesota after federal agents killed 2 US citizens
+E0109,i_HEALTH_31b9f94cb4f8,HEALTH,Exclusive | Nvidia Is Developing an AI Healthcare Model With Startup Abridge
+E0110,i_IMMIG_821d8f89bf7b,IMMIG,"Israel seeks to attract Jews abroad with jobs, studies, tailored aliyah programs"
+E0111,i_SOCIAL_35d30b3fb39a,SOCIAL,Merging DEI and Ministry Offices at Catholic College Causes Controversy
+E0112,i_IRAN_84bb2dd80861,IRAN,Iran declares Strait of Hormuz open to shipping but Trump says U.S. blockade still active
+E0113,i_SOCIAL_3b1b9539851e,SOCIAL,Judge limits enforcement of Idaho's transgender bathroom access law
+E0114,i_DEMOC_ba097e1949dc,DEMOC,Utah judiciary issues rare statement addressing threats against judge in redistricting case
+E0115,i_FOREIGN_31aa850e6f42,FOREIGN,US lifts sanctions on Venezuelan interim leader Delcy Rodríguez
+E0116,i_TRUMP_20f313270793,TRUMP,What Trump’s approval could mean for 2026
+E0117,i_HEALTH_1c727817a0b3,HEALTH,Emory Healthcare honors its legacy while advancing future of health care with new look
+E0118,i_IMMIG_98fab76dae46,IMMIG,West Africa border security operation targets Foreign Terrorist Fighters
+E0119,i_IMMIG_2558f54764b5,IMMIG,"California Legislature Urges Congress to Update Immigration Registry, Expand Pathway to Legal Status"
+E0120,i_FOREIGN_fce647c97e11,FOREIGN,First Lady of Ukraine Presented Two Cultural Diplomacy Projects in the United States
+E0121,i_ENERGY_2f4e77349425,ENERGY,Oil prices rise again as conflicting Iran-US messages fuel uncertainty
+E0122,i_IRAN_f55771aa6ff4,IRAN,Kuwaiti Tanker Full of Oil Struck Off Dubai Day After Trump’s Threats
+E0123,i_HEALTH_78db5f416990,HEALTH,Medicaid Changes Put Pressure on Tribal Health Care as New Federal Funding Reaches Minnesota
+E0124,i_TARIFF_156f99dbaa11,TARIFF,Bynum Says “It’s About Time” for Refunds on Trump’s Reckless Tariffs
+E0125,i_COST_66f854405f24,COST,Fed's Goolsbee says strong demand may be adding to US inflation
+E0126,i_TARIFF_cc6d4979dc30,TARIFF,What's next for Trump's tariffs? Experts explain
+E0127,i_COST_045b0479283e,COST,LEADER JEFFRIES: “THE COST OF LIVING IN THE UNITED STATES OF AMERICA IS COMPLETELY AND TOTALLY OUT OF CONTROL” – Congressman Hakeem Jeffries
+E0128,i_ENERGY_7aee7ffb3fd1,ENERGY,"Virginia Gas Prices: Cheapest and most expensive places to fill up - August 18, 2026"
+E0129,i_DEMOC_937119152dfb,DEMOC,Who Has Gained Biggest Redistricting Advantage—And What Could Change
+E0130,i_AI_bc221568db23,AI,Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders
+E0131,i_IMMIG_b4480a00dae5,IMMIG,Protests in Charlotte as aggressive immigration arrests continue
+E0132,i_DEMOC_1995a9656c57,DEMOC,Letters: Double standard on SAVE Act | Caregivers’ mental health | Trump threatens war crimes
+E0133,i_TRUMP_32e7fd4b0390,TRUMP,"Bonus Slog/Slog Mid-AM: Trump’s Approval Rating Reaching All-Time Low, Hey Bagel Plans Second Location, What Megan Needs You to Know About Candy Corn"
+E0134,i_TARIFF_1ec5581f048f,TARIFF,General Motors says it expects $500 million tariff refund after SCOTUS ruling
+E0135,i_SOCIAL_2f1f5dc294fd,SOCIAL,States Challenge DOJ Effort Targeting Transgender Health Care for Adolescents
+E0136,i_IRAN_66d2136503af,IRAN,Iran war mutes Gulf rivalries
+E0137,i_AI_d92d6684b1bd,AI,Data center regulation bill passes South Dakota House
+E0138,i_IRAN_b3a80552fab0,IRAN,How a WWII battleship was saved from being turned into scrap
+E0139,i_TARIFF_b9ee178751a1,TARIFF,Canada's retaliatory tariffs hit US products as Trump warns of escalation
+E0140,i_COST_d2702d26b152,COST,State drafts childcare regulations governor says will boost affordability
+E0141,i_FOREIGN_338298805f5a,FOREIGN,European leaders stress 'urgent need' to bolster Ukraine's defenses against Russian ballistic missiles
+E0142,i_HEALTH_30c8df0ce92c,HEALTH,The Big Ugly Bill’s impact on healthcare comes into view
+E0143,i_HEALTH_860252934537,HEALTH,"Louisiana closes UnitedHealthcare Medicaid contract, reassigns 280,000 members"
+E0144,i_IMMIG_c58baf86b424,IMMIG,"Pew: US Latinos disapprove of Trump’s immigration, economic policies"
+E0145,i_AI_5a439bbdf114,AI,Rebellions seals deal with ai& to deploy its RebelRack inference hardware in Japan
+E0146,i_DEMOC_447d3a014980,DEMOC,State legislature looking at redistricting
+E0147,i_IMMIG_1024dec04705,IMMIG,Italy’s Harsh Immigration Bill Puts Lives at Risk
+E0148,i_ENERGY_e25c50a6f048,ENERGY,Gas prices tick up in South Carolina as Venezuela developments draw attention
+E0149,i_TRUMP_232260c1dde1,TRUMP,"Trump’s job approval rating has dropped to 36%, a new NPR/ PBS News/Marist poll shows"
+E0150,i_HEALTH_64fa668ce531,HEALTH,US House advances Democratic effort to reinstate healthcare subsidies
+E0151,i_HEALTH_198f8c3665cd,HEALTH,Republicans push new plan as Obamacare subsidies face expiration
+E0152,i_IMMIG_ae2329027143,IMMIG,Judge rejects rapid Trump administration deportations to third countries
+E0153,i_TRUMP_aa12bbe788d1,TRUMP,"What is latest Trump approval rating? Here's what polls say for US, PA"
+E0154,i_COST_e7a3571ea6de,COST,Canada trade war could push inflation higher: Fed official
+E0155,i_TARIFF_fee520ce7663,TARIFF,"Texas economy cools as concerns about tariffs, uncertainty persist"
+E0156,i_IMMIG_086c213971f4,IMMIG,Colorado students organize walkout to protest federal immigration policies
+E0157,i_ENERGY_1a538b79b9b1,ENERGY,How much did Central Atlantic gas prices rise?
+E0158,i_COST_a51b76617245,COST,Turkish central bank stands by next year's 16% inflation target
+E0159,i_IRAN_d27f05c0e039,IRAN,"Trump says hasn’t decided on major Iran strikes, Tehran getting ‘serious’ in talks"
+E0160,i_SOCIAL_0ef31e8d2243,SOCIAL,Worker dies after Rome's medieval Torre dei Conti tower partially collapses during renovation work
+E0161,i_IRAN_611bf520e3c3,IRAN,The Houthis’ offensive is the latest spillover from Trump’s Iran disaster | Mohamad Bazzi
+E0162,i_SOCIAL_493adab6e034,SOCIAL,We Have Always Been Here: Historic Transgender Communities
+E0163,i_IMMIG_2f72a70dd6bc,IMMIG,Trump’s deportation machine sends thousands of immigrants to Kentucky jails
+E0164,i_FOREIGN_c7edea0fcb3d,FOREIGN,Essay | Can Trump Make Venezuela an Oil Giant Again?
+E0165,i_ENERGY_c839c59493ac,ENERGY,Oil prices rise as Iran and Israel trade strikes in defiance of Trump
+E0166,i_IMMIG_d57d1e2fe2f5,IMMIG,‘We want ICE out’: Pennsylvania Democrats look to combat Trump’s immigration policies
+E0167,i_IMMIG_9bbf0e3e0ef9,IMMIG,Rep. Castro inspects San Benito immigration detention center housing pregnant minors
+E0168,i_ENERGY_15c8284634ba,ENERGY,"Gas prices increase nationally, WA; relief in Grant and Adams Co."
+E0169,i_HEALTH_c9176e505b9f,HEALTH,"As Healthcare Affordability Tops Voter Concerns, AFPI Releases Healthcare Policy Series Focused on Returning Healthcare Dollars to Americans"
+E0170,i_TRUMP_df9f576c79a4,TRUMP,What is Trump's approval rating today? Trump current approval rating
+E0171,i_SOCIAL_345b4c65ed54,SOCIAL,How Federal Attacks on Diversity and Inclusion Policies Have Dismantled Public Health Infrastructure and Threaten National Health Security
+E0172,i_SOCIAL_e688e3b8988d,SOCIAL,Federal court tosses White employee's hostile work environment claim over DEI training
+E0173,i_AI_718218c80a20,AI,Guest column: A caution about artificial intelligence
+E0174,i_IRAN_dd0cb3753e26,IRAN,The Hidden Systems of Modern War: Ten Takeaways from the Iran War
+E0175,i_TRUMP_f7e4c5b0d8dc,TRUMP,Trump poll finds most states disapprove of his job performance
+E0176,i_HEALTH_98fe56956d10,HEALTH,Audit of Oklahoma Medicaid agency sought
+E0177,i_HEALTH_dfaab0db0309,HEALTH,Advocates say thousands of legitimate providers disenrolled from high-risk Medicaid programs
+E0178,i_IMMIG_a25084de4260,IMMIG,United Kingdom: Statement of Changes to the Immigration Rules Announced | News & Events
+E0179,i_DEMOC_26974bf851eb,DEMOC,Federal judge blocks Trump’s anti-mail voting executive order again — this time nationwide
+E0180,i_TRUMP_3a0ed9a6ef19,TRUMP,Trump saw little to no bounce in his approval ratings in the immediate aftermath of DC dinner shooting
+E0181,i_IMMIG_e61ba1d30a6d,IMMIG,"Federal officials: Fewer than 1,000 immigration agents remain in Minnesota"
+E0182,i_HEALTH_60718daf6114,HEALTH,‘UK at the Half:’ A full-circle journey with UK HealthCare
+E0183,i_HEALTH_d0ca8d6f58eb,HEALTH,Opinion: New Hampshire needs to bolster Medicaid
+E0184,i_ENERGY_fbacd1a86ac6,ENERGY,"Rising US-Venezuela Tensions, CPC Shutdown Push Oil Prices Higher"
+E0185,i_COST_9fd5ca748dc1,COST,"In Democratic primary for governor, candidates focus on affordability and Trump"
+E0186,i_COST_eac7a03bafe9,COST,"US consumers' near-term inflation expectations rise in June, New York Fed says"
+E0187,i_COST_57a36873f92c,COST,Committee on Organization and Policy creates faculty committee to investigate grade inflation
+E0188,i_IRAN_80d6c40f8342,IRAN,The war powers resolution on the Iran war: What’s next?
+E0189,i_SOCIAL_52bf28ec1fa3,SOCIAL,Microsoft Rethinks DEI Goals in Staff Reviews After Pushback
+E0190,i_TARIFF_d050df4c8d60,TARIFF,European carmakers warn EU-UK tariffs could be ‘catastrophic’
+E0191,i_HEALTH_3564fdad6c19,HEALTH,"Dayton, Montgomery County oppose federal changes risking Medicaid, SNAP access"
+E0192,i_TARIFF_d9eee4f6d9ae,TARIFF,"CNBC Daily Open: Trump looks to mitigate tariff, geopolitical blowback"
+E0193,i_IMMIG_58c614598fe3,IMMIG,Journalist sues ICE for records about deadly immigration raid at California cannabis farm
+E0194,i_SOCIAL_de46775bb8c4,SOCIAL,Where scientific research focused on DEI stands after a year of disruption
+E0195,i_IMMIG_46427ddad786,IMMIG,"In campaign ad, GOP congresswoman says Trump's immigration enforcement has ""gone too far"""
+E0196,i_ENERGY_4cc815d81383,ENERGY,"With no sign of relief on gas prices, Mainers are changing their driving habits"
+E0197,i_ENERGY_2414d5b0c71e,ENERGY,"South African rand extends earlier losses as dollar, oil prices climb"
+E0198,i_IRAN_07853f79f5df,IRAN,Bomb Oman? Trump's mental decline has us threatening allies. | Opinion
+E0199,i_AI_9a5bd5ea3328,AI,Data centers for AI could nearly triple San José’s energy use. Who foots the bill?
+E0200,i_IMMIG_c81e74ce719c,IMMIG,An emboldened Trump escalates his anti-immigration crackdown after National Guard shooting
+E0201,i_COST_87aae936cde5,COST,"Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK"
+E0202,i_IMMIG_fae875d7dd43,IMMIG,US deportations to Haiti depend on a fiction
+E0203,i_FOREIGN_7f06691bf8ba,FOREIGN,"European Council, 18 December 2025"
+E0204,i_HEALTH_2fdb014c2217,HEALTH,"$12.5 million gift from Markey Cancer Foundation will support Markey Cancer Center’s mission, priorities"
+E0205,i_IMMIG_3704d0eda8a7,IMMIG,New California laws aim to protect detainees and make it more costly for ICE to operate here
+E0206,i_ENERGY_3e906682dbdd,ENERGY,US gas prices jump to the highest average in nearly 4 years
+E0207,i_AI_bf95810f68ff,AI,"Data center labor shortage pushes operators to train, poach and automate"
+E0208,i_ENERGY_84c2a7752b48,ENERGY,"Regional gas prices fall for third week, analysts predict future increase"
+E0209,i_AI_9da430260f87,AI,Data center proposed for Lisle site with storied past met with strong opposition
+E0210,i_DEMOC_f33bd2815d6c,DEMOC,Virginia political analyst Sam Shirazi explains the redistricting amendment process
+E0211,i_SOCIAL_9738ab4a65ee,SOCIAL,Transgender patients file class action against NYU Langone to stop health system from turning over medical records to Trump admin
+E0212,i_TARIFF_979bf33f4337,TARIFF,Trump threatens to increase tariffs on South Korea
+E0213,i_IRAN_1894382417d0,IRAN,A Plea for Humility and Self-Awareness Prior to War With Iran
+E0214,i_DEMOC_9a52fe7aef22,DEMOC,What to Watch in Virginia’s First Primary Since Its Redistricting Battle
+E0215,i_HEALTH_bc6037f496f1,HEALTH,Millions of Californians to see health care premiums soar as federal subsidies set to expire
+E0216,i_COST_0aa53b8f9e85,COST,Grocery store prices: These 5 practical reforms can help lower costs
+E0217,i_FOREIGN_86a26cec7c83,FOREIGN,Match Centre: Ukraine 1-6 England
+E0218,i_COST_9678e77443a2,COST,"Macy’s We Don’t Need a Lecture on Affordability, We Need a Fair Contract Now!"
+E0219,i_IRAN_2263136a1510,IRAN,US inflation jumped to 3.8% in April as war with Iran continues to drive up prices
+E0220,i_COST_c6598d121a8f,COST,"It’s not just affordability, Americans are anxious over jobs too"
+E0221,i_FOREIGN_956523f594de,FOREIGN,Ripeness Theory and the Russia-Ukraine War
+E0222,i_IMMIG_1e3e78518d9a,IMMIG,More than 100 faith leaders speak out against Knox County's part in immigration enforcement
+E0223,i_IMMIG_9b716aae6b4b,IMMIG,AP report: ICE plans to give its officers gloves that can deliver painful electric shocks
+E0224,i_HEALTH_b1723394c61e,HEALTH,"Medicaid overhaul proposal in Kentucky draws praise, warnings"
+E0225,i_HEALTH_3bb9b135b5d5,HEALTH,Quest Diagnostics to Speak at the Morgan Stanley 24th Annual Global Healthcare Conference
+E0226,i_FOREIGN_ee54b1d04081,FOREIGN,Explainer: Why is the Trump administration putting pressure on Venezuela?
+E0227,i_DEMOC_30e051bd10b6,DEMOC,"Recap: North Kingstown Redistricting Panel Hears Consultant Plan, Reviews Start-Time Survey Draft"
+E0228,i_COST_1fbac1f6562d,COST,IT to fuel hospital supply chain price inflation as pharmacy growth softens: Vizient
+E0229,i_AI_0f2080058cd4,AI,FSB consults on sound practices for the responsible adoption of artificial intelligence (AI)
+E0230,i_IRAN_61fd0222b31b,IRAN,"US will not resume military strikes on Iran before the Nov. 3 midterm elections, Trump says"
+E0231,i_ENERGY_802a5ce7ad88,ENERGY,Be Prepared to Keep Paying More for Electricity
+E0232,i_AI_dbee81c2f671,AI,WSU turns to artificial intelligence to assist sports communications
+E0233,i_TRUMP_1dd88b8bafbd,TRUMP,Trump approval plunges in key battleground state as new poll sparks alarm
+E0234,i_COST_34438c42b2b3,COST,Fed's Barr says gas prices could 'bleed' into inflation
+E0235,i_TRUMP_39ad245b0a95,TRUMP,Poll shows Trump with lowest approval amid fight over press access
+E0236,i_AI_1a7c2010f38c,AI,The Federal Government Just Greenlit the First AI Data Center on Public Land
+E0237,i_SOCIAL_0a2d59005b15,SOCIAL,The Trans Amendment Bill: Everything you need to know
+E0238,i_COST_d87512ef7868,COST,"Megyn Kelly: The inflation ""as a result of what's been happening in the strait is coming like a tidal wave no matter whether the war ends tomorrow or not"""
+E0239,i_SOCIAL_58f42a6739d0,SOCIAL,2 Women Who Killed Transgender Man Are Sentenced to Life in Prison
+E0240,i_IMMIG_632014ae6789,IMMIG,ICE deportation flights surge at Ohio’s Akron-Canton Airport as unpaid landing fees mount
+E0241,i_IMMIG_5f0c46ff0693,IMMIG,Trump administration’s immigrant detention policy broadly rejected by federal judges
+E0242,i_SOCIAL_5a2242f24ba8,SOCIAL,How Trump’s orders to disband ‘DEI’ could cost Louisiana HBCUs millions
+E0243,i_TARIFF_bcb70b213707,TARIFF,CBO’s New Projections Show $1 Trillion Less in Tariff Savings-2025-11-25
+E0244,i_TRUMP_942f3c2c6999,TRUMP,Fox News Host Confronts Trump Amid Worst Approval Rating ‘Ever’
+E0245,i_TARIFF_e440e1972470,TARIFF,US hits Canadian goods with 50% tariffs after trade talks fail
+E0246,i_IRAN_48781c587f59,IRAN,No sign of end to US-Iran conflict after six months
+E0247,i_COST_80032974f97e,COST,Inflation relief's staying power is in question
+E0248,i_DEMOC_4d4701b8110e,DEMOC,What does the SAVE Act do? Democrats push to kill bill Trump says ‘guarantees the midterms’ for GOP
+E0249,i_IMMIG_b2ba9c302b63,IMMIG,Immigration judge in Chicago orders 6 children deported after courts deemed them abandoned
+E0250,i_TRUMP_153e28bae90b,TRUMP,Shock Poll Puts Trump Approval Rating Below Thirty Percent For First Time
+E0251,i_TARIFF_1f4da8972372,TARIFF,Ranking Member Angie Craig Statement on Vote to End Trump’s Canada Tariffs
+E0252,i_TARIFF_ae5419eb1140,TARIFF,"Politics chat: Trump scraps tariffs under pressure, House to vote on Epstein files"
+E0253,i_FOREIGN_67fcf55503e1,FOREIGN,Russia looks to students to make up for mounting losses in Ukraine
+E0254,i_AI_bbfa0b61b068,AI,"Romania preparing to build giant AI hub, data centers"
+E0255,i_ENERGY_68c7b0e150d0,ENERGY,Curran: Gas prices got you considering an EV? Here’s a primer
+E0256,i_AI_5c0388bda9da,AI,Data center energy bill hits speed bump
+E0257,i_IMMIG_e05553fdf8e9,IMMIG,New law limits when police in Maine can work with immigration enforcement agencies
+E0258,i_COST_d87a4898c26d,COST,Affordability and Protecting Freedoms Among Priorities of Senate Republicans
+E0259,i_SOCIAL_8db5934571e6,SOCIAL,Monte dei Paschi Shareholders Reinstall Ousted CEO Lovaglio After Proxy Fight
+E0260,i_AI_08b26adabfeb,AI,Vermont plugs into the data center conversation
+E0261,i_DEMOC_47d544e662e9,DEMOC,"On Thursday’s show: Election integrity, and the artistic fabric of Jacksonville"
+E0262,i_AI_cb71bf584447,AI,Upper Merion leadership votes no to proposed data center
+E0263,i_TRUMP_ff92b10b3edf,TRUMP,Harry Enten said Trump is facing 'an electoral black hole'
+E0264,i_DEMOC_19040e7d31e4,DEMOC,A fix for gerrymandering both parties could love | Mary Ellen Klas
+E0265,i_DEMOC_d882d9d43e18,DEMOC,The Politics Hour: Maryland redistricting in limbo and reactions to accusations of ICE agent brutality
+E0266,i_TARIFF_92ac11585a23,TARIFF,"US bans Canadian dairy, alcohol and motorcycles as trade war escalates"
+E0267,i_ENERGY_be2ef303df3f,ENERGY,CA gas prices rise more than $1 per gallon in a month. What drivers will pay
+E0268,i_COST_07262d6feef8,COST,"Christmas Cookie Inflation Index, 2025 Update"
+E0269,i_AI_b1b199bbfe9b,AI,Muscogee Nation to Look at Data Center Development and AI
+E0270,i_FOREIGN_6eac0da9ef1e,FOREIGN,Russian attacks kill 4 people overnight as Ukraine drones target oil infrastructure
+E0271,i_FOREIGN_c141d0bcd42f,FOREIGN,What’s behind Maga influencer Laura Loomer’s about-face on Ukraine?
+E0272,i_AI_54367c545144,AI,East Texas data center project pulled after facing community backlash
+E0273,i_TARIFF_b9642e6a584a,TARIFF,"Diesel Prices, Tariffs Squeeze Truckload Capacity"
+E0274,i_TARIFF_9fe8ab0a69e3,TARIFF,4 ways Bazooka rethought its supplier strategy in face of tariffs
+E0275,i_ENERGY_3cb8e60d04c2,ENERGY,WKY Gas Price Averages Remain Below $2.80 A Gallon
+E0276,i_SOCIAL_77e3dcb3c74f,SOCIAL,Idaho bill aims to criminalize transgender bathroom use in private businesses
+E0277,i_DEMOC_4fc3fdb4d399,DEMOC,March on the Capitol for voting rights and democracy
+E0278,i_DEMOC_43483a91646d,DEMOC,Missouri anti-redistricting campaign says it reached goal to force statewide vote on new map
+E0279,i_DEMOC_34ed8e6ccb12,DEMOC,President Trump endorses more candidates running against opponents of redistricting in Indiana
+E0280,i_IRAN_e3daaf7b4e5e,IRAN,"J.D. Vance speaks on oil prices, Iran War, affordability in White House press briefing"
+E0281,i_AI_4f0ccae8e5bd,AI,Fort Peck Tribes to data center developers: “We do not want them here”
+E0282,i_AI_0e91e76f6c4d,AI,Benefits of Data Center Modularization Extend Beyond Construction Speed
+E0283,i_SOCIAL_1af9ecb392ae,SOCIAL,Lo Colby Crowned Miss International Queen 2026 as the World's Largest Transgender Pageant Celebrates 20 Years
+E0284,i_DEMOC_5f7fe12b8ecd,DEMOC,Republicans won the redistricting competition. Don't tell that to this California congressman
+E0285,i_ENERGY_b913dad5e40e,ENERGY,"$7.69 for a gallon? See where gas prices are highest, lowest in SLO County"
+E0286,i_TRUMP_85bf0748da64,TRUMP,"The Actions of ICE, February 2026"
+E0287,i_HEALTH_e781ac835067,HEALTH,Republicans can improve healthcare and lower costs
+E0288,i_SOCIAL_6e41b0007828,SOCIAL,Florida’s anti-DEI legislation irks local governments
+E0289,i_FOREIGN_4516fddbc068,FOREIGN,Major Russian attack kills at least 22 and leaves Ukraine pleading for help from Trump
+E0290,i_ENERGY_cd0774a48ad0,ENERGY,Here's how much Texas gas prices declined from last week
+E0291,i_DEMOC_ff8f62439453,DEMOC,Indiana Lawmakers Reject Trump’s New Political Map
+E0292,i_IRAN_4095b636656b,IRAN,Iran’s war didn’t end. It changed units.
+E0293,i_COST_32006486e3c3,COST,"27 Ways People Are Cutting Down On Their Everyday Expenses, Just To Keep Up With Today's Crumbling Economy"
+E0294,i_FOREIGN_24706957998e,FOREIGN,"House approves Ukraine aid and Russian sanctions, defying Trump and GOP leaders"
+E0295,i_IRAN_02f638646219,IRAN,"'Invade Iran or accept talks,' ex-Israeli Air Force chief warns"
+E0296,i_AI_8e1e7b23281b,AI,Nokia to deploy AI-ready network solutions in Telefónica's Edge data centers throughout Spain MWC26
+E0297,i_SOCIAL_696d534bd62f,SOCIAL,ABA Legal Ed council will decide Sept. 8 whether DEI standard is repealed; will it matter?
+E0298,i_DEMOC_723926389f20,DEMOC,Maryland Republicans sue to stop voters from weighing in on Democrats’ redistricting plan
+E0299,i_IRAN_f252f8d49aa5,IRAN,The Unintended Consequences of Iran’s Asymmetric Strategy and America’s AI War
+E0300,i_ENERGY_e15ce6d1bc24,ENERGY,Kentuckians Hit Hard by Rising Gas Prices
+E0301,i_TRUMP_57df73615bee,TRUMP,What is President Trump's current approval rating? What polls say
+E0302,i_SOCIAL_7e326b195c3a,SOCIAL,New GOP ad rips Ohio Senate hopeful Sherrod Brown for alleged trans surgery support
+E0303,i_TRUMP_5eec4f643f8b,TRUMP,Doug Ford approval rating drops as Liberals surge: poll
+E0304,i_HEALTH_c0f13cf657cd,HEALTH,Chair File: Leadership Dialogue — The Role of Advocacy in Advancing Health Care with AHA Executive Vice President Stacey Hughes
+E0305,i_ENERGY_254d3bf8f3d6,ENERGY,Oil Prices Are Pressured and Stocks Gain After Trump Revives Talk of a Deal
+E0306,i_FOREIGN_e2fb97b49e7b,FOREIGN,"WATCH: Shaheen blasts Rubio for ignoring Senate requests for information on Ukraine, Iran and more"
+E0307,i_ENERGY_e503a4b54441,ENERGY,Idaho gas prices increase 10 cents per gallon in one day
+E0308,i_DEMOC_5bcb41f5d99b,DEMOC,Supreme Court pauses lower court order that blocked Texas’ new congressional maps
+E0309,i_FOREIGN_abc86cd9e840,FOREIGN,The reason Putin is afraid to end Russia’s war in Ukraine
+E0310,i_TRUMP_5d1691651062,TRUMP,A New Poll Has Some Warning Signs for Trump Ahead of the Midterms
+E0311,i_COST_2ef18fef5b46,COST,India's retail inflation at 2.75% in first reading under new data series
+E0312,i_DEMOC_ae71f47e5211,DEMOC,Democrats ask the Supreme Court to halt a Virginia ruling blocking new congressional districts
+E0313,i_IRAN_dd05f0be3e09,IRAN,"Watch Trump Sees Iran Strikes Short-Lived as Oil, Dollar Fall | Daybreak Europe 9/3/2026"
+E0314,i_TARIFF_ae8815d590a4,TARIFF,Tariff exclusion extension includes shredder wear parts
+E0315,i_HEALTH_ce929893ff43,HEALTH,Who Are Direct Care Workers and How Might Federal Policy Changes Impact the Workforce?
+E0316,i_FOREIGN_8d99b919f391,FOREIGN,Hungary loses court fight over frozen Russian asset profits for Ukraine
+E0317,i_TRUMP_110856a1ee24,TRUMP,"Trump approval rate drops amidst shutdown, Iran war. See new polls"
+E0318,i_AI_9fa86e490dfe,AI,New Hampshire data center developer withdraws plans hours before opponents were to pack town meeting
+E0319,i_TRUMP_c8f398452421,TRUMP,Rob Shaw: Eby approval rating climbs as potential snap election looms
+E0320,i_IRAN_8df439dd8287,IRAN,"Once viewed as MAGA allies, some European nationalists distance themselves from Trump's Iran war"
+E0321,i_HEALTH_e159e02aa52b,HEALTH,HHS announces members of Healthcare Advisory Committee
+E0322,i_IRAN_ac383bf55d28,IRAN,"Iran war developments, Fed rate path cues in focus for Indian rupee and bonds"
+E0323,i_AI_4f8bbac54379,AI,How AI data center developers use shell LLCs and NDAs for secrecy
+E0324,i_SOCIAL_ccc971fd7d73,SOCIAL,Federal Pressure on Transgender Care Reaches SF Clinics
+E0325,i_ENERGY_d6c88ecc1b43,ENERGY,Gas prices hit their highest mark ever for mid August as Trump’s Iran war drags on
+E0326,i_AI_696efd232852,AI,"Eleven data center developers in talks with NorthWestern, group says"
+E0327,i_AI_a76923a3b122,AI,Fresno leaders consider 10-year ban on data centers
+E0328,i_ENERGY_e62238b80966,ENERGY,Schumer blasts 'reckless war' in Iran as gas prices continue to rise
+E0329,i_SOCIAL_1bcd9dbcd878,SOCIAL,Transgender women are banned from the 2028 LA Olympics by a new IOC policy
+E0330,i_FOREIGN_be074cf3fa0a,FOREIGN,Giant whales move into Greenland waters as ice disappears
+E0331,i_FOREIGN_ed39b2b2a205,FOREIGN,China angered by Taiwan VP's visit to EU democracy forum
+E0332,i_COST_abad4a8ffb9c,COST,The cult $4.99 rotisserie chicken defying inflation
+E0333,i_COST_d915b25e36a3,COST,Pet food inflation flat in 2025 as overall inflation rose in December
+E0334,i_TARIFF_b3214fab7960,TARIFF,Could Trump’s Iran trade war threaten Spain’s saffron-infused paella?
+E0335,i_IMMIG_664747f0c89f,IMMIG,Mahmoud Khalil’s attorneys to turn to US supreme court after ruling paves way for deportation
+E0336,i_TARIFF_ddc84e9e90c5,TARIFF,'U.S Military Will Fail If Canada...': Trump Gets Brutal Golden Dome Reality Check Amid Tariff War
+E0337,i_DEMOC_42925e851c1e,DEMOC,What to watch Tuesday: Redistricting scrambles Florida
+E0338,i_IMMIG_1a7c9200a57b,IMMIG,"Partial settlement of Rokita-Marté immigration fight, but main ICE-detainer dispute remains"
+E0339,i_SOCIAL_ba05e52a5068,SOCIAL,Ninth Circuit keeps DEI research grants off Trump's chopping block
+E0340,i_TRUMP_4b6228c4f026,TRUMP,Trump's Approval Rating Compared To 2028 Democratic Frontrunners Revealed
+E0341,i_IRAN_ab85ec5ac2fd,IRAN,Israel Mulls New Iran Strikes as Strategic Restraint Collapses
+E0342,i_AI_d17a5f46c1b5,AI,Proposed Maine Data Center Ban Could Restrict Loring Project
+E0343,i_HEALTH_285572dd7d1f,HEALTH,"Health Care Consolidation and Rising Costs Happen, but Obamacare Is Not the Key Culprit"
+E0344,i_IMMIG_7c48679edcca,IMMIG,"New Study Finds U.S. Immigration Enforcement Is Hurting American Citizens, Identifies the Dignity Act as the Solution"
+E0345,i_TARIFF_4b53cae681a6,TARIFF,Sen. Welch rings warning on tariffs; ‘This year … they’re angry.’
+E0346,i_TARIFF_3b63ee1b711c,TARIFF,"Tariffs on Canadian power could raise costs, emissions and grid risks"
+E0347,i_TRUMP_505b367f3820,TRUMP,S. Korean President Lee Jae Myung's approval rating drops to 43%
+E0348,i_AI_8830c1a391d6,AI,"Data Center Eyed as Part of Tech Campus in San Jose, Calif."
+E0349,i_FOREIGN_2688c69c8365,FOREIGN,Europe leans in on Taiwan. But to what end?
+E0350,i_SOCIAL_1f89ed33b7f5,SOCIAL,"Trump DOJ lied to D.C. federal appeals court about trans military ban, lawyers say in stunning filing"
+E0351,i_COST_8c5d7e6ebfd1,COST,CBS News poll analysis on cost of living and whether Americans see answers from political parties
+E0352,i_TARIFF_96cd80e4af52,TARIFF,UK Starmer calls for 'calm discussion' to avert trade war with US over Greenland
+E0353,i_ENERGY_83d2669c1cf4,ENERGY,"Nearly all Americans say the conflict with Iran is raising gas prices, but few expect Trump to back down"
+E0354,i_TRUMP_21c80cca5bc6,TRUMP,Prominent Republican skewers MAGA as Trump’s approval continues death spiral
+E0355,i_FOREIGN_b1568972a181,FOREIGN,DEFENSE Taiwan passes U.S. arms bill with spending ceiling of US$24.8 billion (update)
+E0356,i_COST_74841bdc8d53,COST,Watch for consumer stress as inflation remains top concern
+E0357,i_TARIFF_04cf08cb9b30,TARIFF,Data shows Minnesota has paid a steep price for Trump’s tariffs
+E0358,i_TARIFF_1b308b5647ed,TARIFF,4 Thoughts On The Supreme Court Arguments In The Tariffs Litigation
+E0359,i_IMMIG_edd0d508bd45,IMMIG,Demonstrators take to Austin streets after ICE shooting in Texas
+E0360,i_HEALTH_3e5f8f1e86a9,HEALTH,"Senators Markey, Merkley Reintroduce Legislation to Protect Healthcare for Americans Who Cannot Afford Bail"
+E0361,i_TARIFF_c0a115218b77,TARIFF,Trump says US will hike tariffs on EU cars and trucks to 25%
+E0362,i_TARIFF_9196984789c0,TARIFF,"Pony Fur, Mezcal And More: US-Canada Trade War Is Getting Stranger"
+E0363,i_TARIFF_ef97a9fc4d69,TARIFF,"Rule of Law 2, Trump’s Tariffs 0"
+E0364,i_COST_357b4354405d,COST,"U.S. economy expands at a surprisingly strong 4.3% annual rate last quarter, though inflation remains stubbornly high"
+E0365,i_IRAN_086b7cdeeeb6,IRAN,"WATCH: Hesgeth says more than 15,000 enemy targets have been hit in Iran conflict"
+E0366,i_SOCIAL_27c514b46c12,SOCIAL,Still No Answers: Seventh Circuit Oral Argument Leaves DEI Questions Unresolved
+E0367,i_ENERGY_1a6ae49ed2f1,ENERGY,"Oil prices soar on fears of long supply disruption, US siege of Iran ports"
+E0368,i_DEMOC_9a1b6df55271,DEMOC,"Redistricting bill sails through House, faces troubled waters in the Senate"
+E0369,i_FOREIGN_0ba4d31d55a7,FOREIGN,"U.S. and Denmark reach deal on Greenland, which will remain a Danish territory"
+E0370,i_TRUMP_dde89ddafad3,TRUMP,"Trump's approval rating marks lowest level of his career, poll finds"
+E0371,i_DEMOC_c756cfee2f1c,DEMOC,Va. Democrats push 10-1 congressional map after judge deems amendment unconstitutional
+E0372,i_TRUMP_d1f82f0b5c15,TRUMP,Trump Says Black Voters Are Flocking to GOP—New Data Suggests Otherwise
+E0373,i_TARIFF_4bd2979673d1,TARIFF,Trump cuts more tariffs with eye toward grocery prices
+E0374,i_ENERGY_015850ac2b03,ENERGY,"Gas prices soar, how drivers can save at the pump"
+E0375,i_AI_a9e3716b913d,AI,Republicans say they want to address data centers. Democrats smell a campaign-season rat.
+E0376,i_AI_cf526a00ffb1,AI,Data centers emerge as real estate’s newest pricing wildcard
+E0377,i_HEALTH_c7fbdd7fc889,HEALTH,"ADVISORY: Sens. Duff, Lesser, Advocates Call to Advance Affordable Healthcare Bill"
+E0378,i_IRAN_4ae00a21d743,IRAN,Hegseth declares victory while preparing for more war with Iran
+E0379,i_IMMIG_c5ff730e8213,IMMIG,Will Trump's 'public charge' immigration rule save US billions? We investigated
+E0380,i_ENERGY_e90765b484cb,ENERGY,Octopus Boss Warns UK Is Too Exposed to Global Gas Prices
+E0381,i_FOREIGN_8c9a841553fb,FOREIGN,Trump could soon attack this nation. These flashpoints explain why
+E0382,i_TRUMP_de2d96d2c11a,TRUMP,Public Sentiment Turns Cold Amid Prolonged Iran War... Trump's Approval Rating at Lowest of Presidency
+E0383,i_FOREIGN_ce2ab95996a2,FOREIGN,US officials defend Venezuela oil deal amid questions over rebuilding plan
+E0384,i_IMMIG_ca3a6ec265c9,IMMIG,Unmasking the Paramilitary Agents Behind Trump’s Violent Immigration Crackdown
+E0385,i_IRAN_078356a92658,IRAN,Watch: Trump says Iran war will end 'immediately' after US midterm elections
+E0386,i_IRAN_46cda152c846,IRAN,"EU plans to offset Iran war's energy impact, and other climate and nature news"
+E0387,i_COST_e97cc7406cb6,COST,The Fed quietly altered its March inflation forecast — and it points to more pain for Americans. How to fight back
+E0388,i_SOCIAL_4ebba64b1bae,SOCIAL,Commentary: These federal judges are building a legal wall against Trump's assault on transgender rights
+E0389,i_AI_dd963e87b388,AI,Neighbors may have to deal two data centers within half a mile
+E0390,i_TRUMP_7b345f586810,TRUMP,Smith’s approval rating falls to premiership low amid separation troubles
+E0391,i_TRUMP_cc379323b423,TRUMP,Starmer’s approval rating tanks to new low
+E0392,i_DEMOC_f875c2e5085a,DEMOC,Mitch Daniels defends lawmakers facing primary challenges over redistricting vote
+E0393,i_DEMOC_92fe9dac5f61,DEMOC,GOP legislators stress election integrity amendments
+E0394,i_AI_0f694d92363f,AI,EPA Launches Clean Air Act Resource for Data Centers
+E0395,i_FOREIGN_f1f86c7c04de,FOREIGN,US troops in Venezuela? Trump hints major moves possible as tensions soar
+E0396,i_TARIFF_f21f18741b90,TARIFF,Cheesemaker says hidden costs of US-Canada tariff dispute are destabilizing
+E0397,i_TRUMP_57ef15f46257,TRUMP,"President Lee Jae Myung's Approval Rating Drops to 43.3%, Lowest Since Inauguration"
+E0398,i_FOREIGN_f279e95e9a9e,FOREIGN,Update 342 – IAEA Director General Statement on Situation in Ukraine
+E0399,i_SOCIAL_9c0c4fb77801,SOCIAL,"Rock Defaced After Being Painted for Transgender Visibility Day, Campus Reacts"
+E0400,i_TRUMP_d33caf3a71e9,TRUMP,Donald Trump's approval ratings dip further in 2026. What the polls show
+E0401,i_DEMOC_16979b9bd6ca,DEMOC,"Trust in the Process, Split on the Problems: Views on Voting and Election Integrity"
+E0402,i_COST_f52156682b39,COST,Is Walmart the answer to America’s ‘affordability crisis’?
+E0403,i_ENERGY_e013c6ea1bd6,ENERGY,NJ electricity prices on Gov. Sherrill's day one agenda. What she did
+E0404,i_FOREIGN_3beb8245016e,FOREIGN,WFP Venezuela Country Brief May 2026
+E0405,i_AI_9984bec633ec,AI,An AI Data Center at the Edge of the Everglades Heads to a Decisive Vote
+E0406,i_IRAN_0f046237171a,IRAN,"EDGE CEO talks company’s role in Iran conflict, plus future partnerships"
+E0407,i_IRAN_7000d9a23d00,IRAN,Bessent’s G20 pitch collides with anxieties over US debt and Iran war
+E0408,i_TRUMP_dcd8613efc59,TRUMP,Prabowo's approval rating falls to 51.1 per cent as honeymoon ends
+E0409,i_HEALTH_a34e4aea3383,HEALTH,NY’s Medicaid Fraud Watchdog Shows Declining Performance
+E0410,i_DEMOC_45d1df67bbcd,DEMOC,Here are the results for Virginia's 2026 redistricting ballot measure
+E0411,i_HEALTH_84314dd28771,HEALTH,Davids Announces Funding to Improve Healthcare Access in Kansas’ Third District
+E0412,i_SOCIAL_7ac5fc4f85f8,SOCIAL,‘Deeply unwell’: Trump’s odd performance
+E0413,i_ENERGY_42c8f39a0f72,ENERGY,Texas oil expert weighs in on gas prices amid ongoing Middle East tensions
+E0414,i_TARIFF_5078a3e193fd,TARIFF,The $130 Billion Race for Companies to Get Their Tariff Money Back
+E0415,i_SOCIAL_3d47317b5b47,SOCIAL,New York Families Challenge Trump Administration’s Latest Attack on Health Care for Transgender Youth
+E0416,i_IRAN_325a6d61b35c,IRAN,Five Scenarios: How Washington Sees the Iran War Ending
+E0417,i_DEMOC_ab0a6ced5208,DEMOC,Zelluna ASA – Disclosure of voting rights of Extraordinary General Meeting
+E0418,i_DEMOC_b137fc810c2b,DEMOC,A Private Call Reveals Democrats’ Desperation Over Tossing of Map
+E0419,i_TRUMP_768d914fe9df,TRUMP,Trump’s Approval Rating on Economy Sparks Midterms Warning
+E0420,i_ENERGY_475fac4dde11,ENERGY,"U.S. oil price plunges below $84 as Iran declares Strait of Hormuz open, easing supply fears"
+E0421,i_SOCIAL_749ca4533acd,SOCIAL,Maine Supreme Court upholds blocked transgender sports referendum
+E0422,i_AI_099462ea35f0,AI,AI data center planned in Weld County as state lawmakers weigh incentives
+E0423,i_TRUMP_d7bde042307f,TRUMP,Leam Richardson Two Months In: Reflections And Approval Rating
+E0424,i_TARIFF_b43bd4448ccb,TARIFF,Fresh Setback for Trump's Tariffs as He Threatens Europe With 'Much Higher' Levy
+E0425,i_FOREIGN_947b3bd930f7,FOREIGN,News Wrap: Trump says there's progress in U.S. effort to end Ukraine war
+E0426,i_FOREIGN_f25b8afbde66,FOREIGN,Ukraine Is Preparing an Updated Economic Strategy: The Presidential Office to Coordinate the Effort
+E0427,i_IMMIG_62f94075fbab,IMMIG,CBS editor-in-chief Bari Weiss pulls '60 Minutes' piece on Trump deportation policy hours before air
+E0428,i_IMMIG_767221da88be,IMMIG,Lawyers for Kilmar Abrego Garcia Speak to Media Amid Deportation Hearing
+E0429,i_TRUMP_6e7343dbcfde,TRUMP,Republican support for Trump has fallen as Democrats hold a big lead among enthusiastic midterms voters
+E0430,i_IRAN_af471a3b6a17,IRAN,Rising costs from Iran War could force century-old Oceanside farm to close
+E0431,i_TARIFF_967c4e4b8ef7,TARIFF,"Baumgartner and Conroy face off on Iran, Israel and tariffs at Spokesman debate"
+E0432,i_HEALTH_e8e85a44eee4,HEALTH,Judge stays Trump administration policies set to shrink ACA marketplaces
+E0433,i_TRUMP_25f3ba15d609,TRUMP,"Poll Shows Congressional Democrats With Record Low Approval, But Voters Still Want Them In Charge Of Congress"
+E0434,i_IRAN_29ecc42e23d3,IRAN,U.S. beginning effort to guide stranded ships through Strait of Hormuz
+E0435,i_AI_13ee0a6f9a4d,AI,Riding the orbital data center wave
+E0436,i_IMMIG_fcc36772c32b,IMMIG,Trump Administration Proposes Immigration Status Checks for Parents Applying for Children’s Passports
+E0437,i_IMMIG_d68f2e8f942c,IMMIG,Experts speak out about Trump’s immigration campaign ahead of State of the Union
+E0438,i_TARIFF_d328bc425004,TARIFF,Companies Are Running Out of Ways to Keep Tariffs From Raising Prices. The Hit May Still Be Coming.
+E0439,i_HEALTH_1cbfd5cbd9e6,HEALTH,What Medicaid changes in Trump's 'big beautiful bill' mean for family caregivers’ health coverage
+E0440,i_FOREIGN_78e448aa4f65,FOREIGN,Russia shutters German consulate as diplomatic freeze deepens
+E0441,i_IRAN_532bba7eda1a,IRAN,Iran war has cost Pentagon at least $45.1 billion
+E0442,i_TARIFF_316617b9df0e,TARIFF,Foreign Tariffs Made U.S. Whiskey Cheaper — Depending on Where You Live
+E0443,i_DEMOC_78d9f0830dc4,DEMOC,President Trump Says He Won't Sign FISA Unless SAVE Act Is Passed
+E0444,i_ENERGY_5ed28fa5e6ed,ENERGY,Fact-Checking Trump’s Latest Claims on Affordability
+E0445,i_TRUMP_2c77b91e62e6,TRUMP,Trump's low approval rating may hurt Republicans in toss-up seats
+E0446,i_AI_b2206585755e,AI,Rural Community Action Assembly: Planning for Data Center Development
+E0447,i_FOREIGN_eaa36f1d8503,FOREIGN,"Attack on Ukraine shopping centre that killed 16 is ‘terror by design’, says EU foreign policy chief"
+E0448,i_IMMIG_a2a5df379ad6,IMMIG,Protest against immigration enforcement takes to downtown Raleigh
+E0449,i_TRUMP_1676caa0e318,TRUMP,UMass Amherst poll: Trump's approval rating plummets to 33%
+E0450,i_SOCIAL_b23293ec233b,SOCIAL,Politicizing Transgender Athletes Is Dangerous. Lia Smith Deserved Better.
+E0451,i_IRAN_8936c6847f8f,IRAN,'In­flection point': More lawmakers calling to end Iran war ahead of 60-day mark on May 1
+E0452,i_HEALTH_e02b8949c8bc,HEALTH,Helping Health Systems Turn Pharmacy Complexity Into Performance
+E0453,i_COST_4ea4f9781d9f,COST,Mexico's annual inflation speeds more than expected in early February
+E0454,i_FOREIGN_fb2ec3576159,FOREIGN,Report Nuclear Escalation Control in a Taiwan Strait Crisis:
+E0455,i_TRUMP_2f09cab9069b,TRUMP,"Lee's Approval Rating Falls to 37.4%, First Drop in Three Weeks"
+E0456,i_SOCIAL_6f24460757ae,SOCIAL,"The Rise and Fall of Diversity, Equity, and Inclusion Initiatives in Higher Education"
+E0457,i_DEMOC_98176ab5b0ae,DEMOC,Supreme Court Scrutinizes Mississippi Law Allowing Mail-In Ballots Postmarked by Election Day
+E0458,i_COST_c130a0e2d8a2,COST,"U.S. grocery slowdown deepens as shoppers buy fewer items, raising pressure on food companies"
+E0459,i_IMMIG_807001e75904,IMMIG,Backpedaling GOP candidate admits Trump 'betrayed' voters | Opinion
+E0460,i_TARIFF_227e78b60f87,TARIFF,"Trump's coffee tariff change helps US roasters, hurts Brazil"
+E0461,i_AI_77aa2c60a0aa,AI,What’s next for the proposed Bonner data center?
+E0462,i_HEALTH_63945aedcd88,HEALTH,"Pallone: Republicans Claim ""Fraud"" as Cover to Dismantle Medicaid |"
+E0463,i_IRAN_c1a3ac23e526,IRAN,Israel After the Iran War
+E0464,i_TARIFF_8d97d6249f75,TARIFF,US aluminum tariffs push Canadian beer can costs up nearly 13%
+E0465,i_ENERGY_38b86f7af450,ENERGY,The link between gas and electricity prices
+E0466,i_AI_91947bf9e6df,AI,How much is the US spending on building data centers?
+E0467,i_IMMIG_3b31da248fde,IMMIG,Noem & Lewandowski ‘pointing fingers’ amid pressure to ramp up immigration enforcement
+E0468,i_AI_fa1148170888,AI,Minnesota Data Center Approvals Happening With Secrecy
+E0469,i_AI_f089b42bb2ee,AI,Sen. Josh Hawley wants data centers to build their own power plants
+E0470,i_IRAN_35efa8579783,IRAN,Tiffany does 180 on Trump’s Iran war
+E0471,i_ENERGY_0898d76ff334,ENERGY,Gas prices spike on South Whidbey
+E0472,i_TRUMP_d2c9afd67c39,TRUMP,Why Trump’s plummeting approval ratings are even worse than they look
+E0473,i_TARIFF_6e89e7e1f93d,TARIFF,The fallout from the US-Canada trade clash transcends economic impact
+E0474,i_TARIFF_25bb8c033fc4,TARIFF,US retreats from Donald Trump’s Italian pasta tariffs
+E0475,i_COST_8b218b3fa9b0,COST,Diesel Prices Are Doing What $4 Gas Did in 2008. Inflation Warning Sign?
+E0476,i_TRUMP_cc586280dfb8,TRUMP,Every Pollster in America Agrees America Hates Trump
+E0477,i_COST_efdb08e625ae,COST,Grade inflation in pandemic strengthened university prospects for private school and disadvantaged students
+E0478,i_DEMOC_33529eb005bf,DEMOC,DeKalb school redistricting resumes after months-long pause
+E0479,i_HEALTH_d99a090cf649,HEALTH,How Health Insurance Coverage Denials Affect Americans
+E0480,i_FOREIGN_78819f0a3d67,FOREIGN,Ukraine’s army fights to hold Pokrovsk in a battle for territory and narratives
+E0481,i_ENERGY_c7f3b48111ea,ENERGY,TotalEnergies stock rises as buyback data and oil prices support it
+E0482,i_DEMOC_fb4446573d10,DEMOC,Pressure mounts for Senate to act on redistricting as House sets hearing for proposed map
+E0483,i_TARIFF_bab485adce50,TARIFF,Trump warns of ‘big tariff’ if UK doesn’t drop digital services tax on U.S. tech firms
+E0484,i_DEMOC_546566905ca9,DEMOC,"New Supreme Court ruling won’t change CA maps, but could hurt Dems"
+E0485,i_TARIFF_a1464b9fda45,TARIFF,Trump’s tariff strategy is alive and well
+E0486,i_ENERGY_c5153a8eb37b,ENERGY,"Brent crude briefly tops $119 per barrel, before receding, and shakes stock markets worldwide"
+E0487,i_DEMOC_b901db5c0b05,DEMOC,Va. Supreme Court greenlights redistricting measure that could add 4 more Democrat seats in Congress
+E0488,i_COST_604d3c89c50f,COST,"Indian rupee, bonds to track oil prices; local and US inflation data in focus"
+E0489,i_COST_ab0e9ed41ce6,COST,"We’re in a ‘windchill’ economy, where things feel worse than they are"
+E0490,i_COST_4894e4cd6c08,COST,Zohran Mamdani's Promise and the Reality of Supermarket Prices
+E0491,i_IMMIG_9e228d10ac12,IMMIG,Congress moves to get details about ICE use of military bases
+E0492,i_TARIFF_bf4560141729,TARIFF,Mexico at a turning point: How tariff realignment can redefine North American trade
+E0493,i_IMMIG_5b0c0bcc188a,IMMIG,"Voluntary departures spike as immigrants face squalid detention, pressure to leave"
+E0494,i_IRAN_d99e434d8460,IRAN,Trump says Iran war is worth the economic pain. These rural voters agree.
+E0495,i_SOCIAL_0713abffc548,SOCIAL,Oregon’s Troubling Transgender Story
+E0496,i_ENERGY_83c8fd7a3036,ENERGY,High Gas Prices Are Squeezing America’s Food Banks
+E0497,i_AI_9622153a675a,AI,Integrating artificial intelligence tools in health research - npj Digital Medicine
+E0498,i_COST_cb2a213bdc59,COST,Inflation Persisted in August
+E0499,i_IMMIG_c2206470bbf2,IMMIG,Liam Conejo Ramos' family fights immigration judge's ruling to deport them to Ecuador
+E0500,i_FOREIGN_580faa1aac3e,FOREIGN,"World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert for Horn of Africa, $710 million appeal for Rohingya refugees"
+E0501,i_TRUMP_582e7b952a90,TRUMP,Why Wes Moore’s approval rating is rising | GUEST COMMENTARY
+E0502,i_HEALTH_5725e1744657,HEALTH,New Study Shows Adherence to Monthly Injectable Buprenorphine Linked to Lower Healthcare Utilization and Costs in Opioid Use Disorder
+E0503,i_DEMOC_636f5ccb7858,DEMOC,Lawsuit filed after Missouri’s redistricting referendum gets blocked
+E0504,i_HEALTH_466fe4d282c8,HEALTH,Healthcare SC releases new statement on MLILY plant fire
+E0505,i_TARIFF_d61e1b8d9acb,TARIFF,"Trade war escalates between US, Canada"
+E0506,i_TARIFF_5be0679d0ff0,TARIFF,"Amazon is forgoing millions in tariff refunds to 'curry favor' with Trump, lawsuit claims"
+E0507,i_HEALTH_8f7b0bba90df,HEALTH,Three Iowa healthcare providers fired for alleged patient-privacy law violations
+E0508,i_ENERGY_66435f50c05d,ENERGY,Gas prices in Massachusetts dip below $4 a gallon for first time in 2 months
+E0509,i_TARIFF_e14d90c60a8c,TARIFF,Tariff-Free Provision Created for Non-Metal Section 232 Imports
+E0510,i_FOREIGN_f019673a0f58,FOREIGN,"As Trump focuses on Iran, Europe and Ukraine strengthen ties"
+E0511,i_IMMIG_2cb489092b5b,IMMIG,Ex-residents of apartment building targeted in massive immigration raid seek millions in damages
+E0512,i_ENERGY_23da0bdbf942,ENERGY,"Oil Stocks Volatile, Oil Prices Fall After U.S. Raid in Venezuela. What Happens Now?"
+E0513,i_FOREIGN_5da5f6d1648d,FOREIGN,"U.S. Has Reached Security Deal on Greenland, Trump Says"
+E0514,i_SOCIAL_d0c6669b9bfc,SOCIAL,Intesa launches $35 billion Monte dei Paschi bid to redraw Italian financial map
+E0515,i_IRAN_76df0834649c,IRAN,Department of Defense Reveals Number of Americans Wounded in Iran War
+E0516,i_ENERGY_8d1c270ea643,ENERGY,Producer prices fall for 1st time in 11 months in July on declining oil prices
+E0517,i_AI_a4e2a13c6622,AI,"Data centers proposed on federal land in eastern Oregon, western states"
+E0518,i_HEALTH_80701f621b68,HEALTH,"Study: Candida auris often spreads from patients to gloves, gowns of healthcare workers"
+E0519,i_COST_3f75a956b685,COST,Economist says inflation is still impacting the ag economy
+E0520,i_FOREIGN_9fc931d597aa,FOREIGN,Poll: Trump’s praise of Delcy Rodriguez dents his popularity in Venezuela
+E0521,i_AI_a74d1ed3c72c,AI,How should San Antonio approach data center growth? District 6’s Ric Galvan weighs in.
+E0522,i_FOREIGN_897460652e25,FOREIGN,"Earthquakes in Venezuela: Situation Report 32 (07 August 2026, Time: 02:00 pm)"
+E0523,i_HEALTH_7664be84c219,HEALTH,2026 Healthcare Market Outlook | News & Events
+E0524,i_FOREIGN_d8536586fefa,FOREIGN,Ukrainian ambassador reveals what Poles want before they will support Ukraine's EU accession
+E0525,i_TRUMP_59e1222e60ad,TRUMP,Trump scolds CNN’s Kristen Holmes over 27% Latino approval rating: ‘Your whole outfit is fake’
+E0526,i_DEMOC_737bdf92c81b,DEMOC,South Carolina ‘Republicans’ Rebuff Trump on Redistricting
+E0527,i_TRUMP_487e0af3a64e,TRUMP,Donald Trump’s approval rating: the latest polls tracked
+E0528,i_AI_83a89c1e6bdd,AI,GlobalAI data-center company buys Carestream property
+E0529,i_TARIFF_6d731addd27c,TARIFF,Trump's Canada trade war is entering a dangerous new phase for these battleground states
+E0530,i_DEMOC_13ca46650597,DEMOC,Replacement mail-in ballots for Maryland primaries being sent to voters this week
+E0531,i_DEMOC_99aa54d95f90,DEMOC,Roanoke rallies highlight divide ahead of Virginia’s redistricting vote
+E0532,i_AI_faec67668b1d,AI,State Lines | North Carolina’s Data Center Dilemma
+E0533,i_AI_f709a99bff4f,AI,How data center demand can accelerate climate tech deployment
+E0534,i_DEMOC_5e304431ce52,DEMOC,Right-wing lawmaker proposes bills to reduce foreign nationals' voting rights
+E0535,i_ENERGY_6ade419d40ce,ENERGY,"Big changes coming to electricity prices in South Africa, and SARS’ plan to collect more tax revenue"
+E0536,i_DEMOC_ad9e94d57234,DEMOC,Harrison: Mississippi tried redistricting in 2001. Democrats dropped the ball
+E0537,i_SOCIAL_f67797f1b4b6,SOCIAL,"Supreme Court to hear key cases on transgender sports bans in Idaho, West Virginia"
+E0538,i_SOCIAL_62e3ac5e356b,SOCIAL,Do's & don'ts | How to make sure your DEI policies stay on the right side of the law
+E0539,i_SOCIAL_afed6f394f1f,SOCIAL,Michigan parent files Title IX complaint with allegations over transgender athlete playing in volleyball game
+E0540,i_SOCIAL_0ca9c0a72381,SOCIAL,Supreme Court Schedules Oral Arguments Over Bans on Transgender Student Athletic Participation for January 13
+E0541,i_SOCIAL_972bdfc49bf2,SOCIAL,Outstanding Stories About Transgender People Among the 37th GLAADAwards Nominees
+E0542,i_IRAN_042a5cacc3f6,IRAN,"Investor Focus: Iran War Winners and Losers, Cheapest S&P 500 ETF, and ASML Shares Surge"
+E0543,i_ENERGY_cf654eff7b4f,ENERGY,San Diego gas prices increase sharply amid war in Iran
+E0544,i_SOCIAL_210f3d0a1b17,SOCIAL,CA hires DEI chief to 'integrate DEI' into retirement investments – has no finance experience
+E0545,i_DEMOC_8040f39930d1,DEMOC,Virginia Beach veteran explains why she supports redistricting amendment
+E0546,i_AI_fdbefccbc08b,AI,Cle Elum adopts emergency moratorium as $200M AI data center plan stirs concerns
+E0547,i_FOREIGN_af60c41a65ab,FOREIGN,Speech by AIT Director Raymond Greene at INDSR
+E0548,i_COST_4242c716167c,COST,"Pentagon Releases Cost of Living, BAH Rates for 2026"
+E0549,i_IRAN_5a4480bf1de2,IRAN,Joe Kent calls for those in the Trump administration opposed to the Iran war to resign
+E0550,i_IMMIG_2d4d01794826,IMMIG,The Trump Administration’s New Mass Deportation Playbook

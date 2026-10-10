@@ -1,0 +1,36 @@
+nmf_topic,lda_topic,jaccard_top10,lda_top_words,lda_npmi
+0,13,0.0,"illegal, problem, future, immigrants, healthcare, laws, law, legal, local, city",-0.15196899694091218
+1,10,0.25,"trump, administration, trump administration, tariffs, cost, wants, political, president, living, strategy",-0.0687126891808626
+2,5,0.0,"political, tax, black, history, politics, current, bad, life, idea, crisis",-0.11630955104255178
+3,22,0.05263157894736842,"maga, change, american, trump, family, plans, moderator, education, trust, read",-0.3203606235812706
+4,7,0.1111111111111111,"races, key, primaries, north, primary, texas, carolina, north carolina, tuesday, senate",0.19420918882268698
+5,28,0.17647058823529413,"democrats, win, congress, big, trump, control, latest, senate, winning, independent",0.00669472684414179
+6,14,0.42857142857142855,"iran, war, trump, iran war, deal, military, care, end, hegseth, war iran",0.11964692752571883
+7,34,0.42857142857142855,"court, supreme, supreme court, map, mamdani, judge, congressional, ruling, nyc, use",0.12512143394792513
+8,3,0.05263157894736842,"point, trump, months, greenland, guys, lose, can't, billionaires, past, universal",-0.30817356843585125
+9,9,0.17647058823529413,"party, media, democratic, social, democracy, democratic party, justice, center, social media, politicians",0.08589995929474938
+10,21,0.3333333333333333,"senate, race, senate race, texas, talarico, texas senate, paxton, james, gop, runoff",0.3480293647925438
+11,30,0.17647058823529413,"campaign, house, candidate, senate, alaska, tennessee, decide, gop, kansas, republican",-0.028485527734585386
+12,19,0.1111111111111111,"america, act, plan, trump, save, rights, looking, place, voting, general",-0.0026896707615047975
+13,11,0.0,"trump, money, faces, biggest, billion, fund, ukraine, turning, project, cities",-0.40429201937321985
+14,25,0.0,"trump, donald, donald trump, israel, obama, president, fox, doing, worse, better",0.06406034707610009
+15,24,0.05263157894736842,"democrats, claims, fraud, presidential, vote, trump, newsom, swing, answer, true",-0.1335998702197241
+16,27,0.1111111111111111,"trump, gop, democrats, dems, focus, health, parties, economic, political, reveals",-0.03463050679316314
+17,33,0.42857142857142855,"house, race, district, seat, house race, special, congressional, house district, house seat, wins",0.1855063881761514
+18,23,0.05263157894736842,"school, launches, record, changes, john, board, reelection, seek, thoughts, fetterman",-0.40823995250100403
+19,2,0.25,"epstein, states, files, united, million, united states, epstein files, spending, trump, release",0.07275888182420506
+20,32,0.17647058823529413,"republican, democrat, early, policy, voting, state, senator, early voting, party, collins",-0.06161733495032225
+21,15,0.17647058823529413,"support, trump, prices, majority, gas, public, amendment, americans, high, rising",0.026701866482464563
+22,20,0.17647058823529413,"voting, ballot, trump, county, immigration, order, november, ahead, mail, vote",0.02160822561774974
+23,8,0.42857142857142855,"trump, president, trump's, economy, approval, vance, president trump, low, trump approval, rating",0.1587797829760933
+24,18,0.17647058823529413,"primary, senate, results, democratic, michigan, house, state, race, georgia, district",0.14052044912227502
+25,6,0.17647058823529413,"work, states, red, kirk, state, charlie, close, washington, blue, musk",-0.21621286326900774
+26,31,0.3333333333333333,"platner, maine, lead, women, graham, men, graham platner, maine senate, york, young",-0.06633880467214447
+27,17,0.17647058823529413,"left, country, world, far, wing, american, understand, agree, help, saying",0.11875427046757836
+28,4,0.3333333333333333,"governor, california, shows, race, governor race, latino, exclusive, away, florida, citizenship",-0.1058356958333361
+29,0,0.42857142857142855,"republicans, politics, democrats, general, trump, feel, talk, free, hold, goes",0.15539375291620358
+30,16,0.17647058823529413,"south, debate, senate, minnesota, run, trump, final, crockett, south carolina, carolina",-0.11973225497427042
+31,1,0.17647058823529413,"white, federal, house, white house, trump, government, officials, doj, official, man",0.014978509085882373
+32,29,0.17647058823529413,"house, redistricting, virginia, data, democrats, seats, races, centers, open, data centers",0.001313701608356292
+33,12,0.1111111111111111,"ice, i'm, believe, wrong, actually, harris, what's, views, shooting, seen",-0.02922414519580722
+34,26,0.05263157894736842,"democratic, candidates, trump, announces, losing, nearly, wave, schumer, potential, endorsement",-0.32112934893471806

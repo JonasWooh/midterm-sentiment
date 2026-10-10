@@ -1,0 +1,20 @@
+# GDELT full-text keyword queries used to measure *news tone* for each key voter topic.
+# One query per key topic; each is restricted to US-sourced English articles by the collector.
+# The keyword sets are the highest-weight issue terms of the corresponding NMF topics
+# (outputs/tables/topics_labeled.csv), translated to GDELT DOC syntax.
+queries:
+  cost_of_living: '(inflation OR "cost of living" OR affordability OR "grocery prices" OR "prices rising")'
+  energy_gas_prices: '("gas prices" OR "gasoline prices" OR "oil prices" OR "electricity prices" OR "energy costs")'
+  iran_war: '("Iran war" OR "war with Iran" OR "strikes on Iran" OR "Iran conflict" OR "Iran strikes")'
+  tariffs_trade: '(tariff OR tariffs OR "trade war")'
+  immigration: '(immigration OR deportation OR deportations OR "immigration enforcement" OR "border security")'
+  healthcare: '("health care" OR healthcare OR Medicaid OR Obamacare OR "Affordable Care Act" OR "insurance premiums")'
+  democracy_elections: '(redistricting OR gerrymandering OR "voting rights" OR "mail-in ballots" OR "election integrity" OR "SAVE Act")'
+  ai_data_centers: '("data center" OR "data centers" OR "artificial intelligence")'
+  epstein: '(Epstein OR "Epstein files")'
+  trump_approval: '("Trump approval" OR "approval rating" OR "job approval")'
+  abortion: '(abortion OR "reproductive rights")'
+  crime_safety: '(crime OR "National Guard" OR "public safety")'
+  social_culture: '(transgender OR "trans athletes" OR DEI OR "diversity, equity" OR "affirmative action")'
+  foreign_policy: '(Ukraine OR Venezuela OR Greenland OR Taiwan)'
+  housing: '("housing costs" OR "housing affordability" OR "mortgage rates" OR "home prices")'

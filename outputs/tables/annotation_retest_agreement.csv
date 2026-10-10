@@ -1,0 +1,2 @@
+n,rel_agreement,rel_kappa,tone_exact,tone_within_1,tone_kappa_quadratic,tone_spearman,tone_kappa_3class
+275,1.0,1.0,0.9890909090909091,1.0,0.9931435694992728,0.9921191040294006,0.9883108050667346

@@ -1,0 +1,66 @@
+# Study configuration — every analysis script reads this file.
+study:
+  start: "2025-11-03"          # one year before Election Day 2026 (2026-11-03), after the 2025 off-year elections
+  end: "2026-10-07"            # last complete trading day before data retrieval (2026-10-08)
+  election_day: "2026-11-03"
+  timezone: "America/New_York"
+  market_close_hour_et: 16     # prediction-market prices are sampled at the equity close
+
+prediction_markets:
+  primary: polymarket_dem_sweep        # Polymarket "2026 Balance of Power: D Senate, D House"
+  polymarket:
+    dem_sweep: "2026 Balance of Power: D Senate, D House"
+    rep_sweep: "2026 Balance of Power: R Senate, R House"
+    rsen_dhouse: "2026 Balance of Power: R Senate, D House"
+    dsen_rhouse: "2026 Balance of Power: D Senate, R House"
+    dem_house: "Will the Democratic Party control the House after the 2026 Midterm elections?"
+    dem_senate: "Will the Democratic Party control the Senate after the 2026 Midterm elections?"
+  kalshi:
+    DD: KXBALANCEPOWERCOMBO-27FEB-DD
+    RR: KXBALANCEPOWERCOMBO-27FEB-RR
+    DR: KXBALANCEPOWERCOMBO-27FEB-DR
+    RD: KXBALANCEPOWERCOMBO-27FEB-RD
+    HOUSE_D: CONTROLH-2026-D
+    SENATE_D: CONTROLS-2026-D
+
+# Mid-term basket. Legs are fixed ex ante from policy channels documented in
+# reports/ (sources: JPMorgan via Invezz 2026-10-06 and Yahoo 2026-10-05,
+# William Blair 2026-10-02, Morgan Stanley 2026-09-22). They are NOT chosen
+# from realised correlations.
+basket:
+  dem_sweep_beneficiaries:      # "D+" leg
+    HCA:  {group: hospitals,        channel: "Medicaid/ACA cuts delayed or softened"}
+    THC:  {group: hospitals,        channel: "Medicaid/ACA cuts delayed or softened"}
+    UHS:  {group: hospitals,        channel: "Medicaid/ACA cuts delayed or softened"}
+    CYH:  {group: hospitals,        channel: "Medicaid-heavy payer mix"}
+    CNC:  {group: medicaid_aca_mco, channel: "Medicaid + ACA exchange enrolment"}
+    MOH:  {group: medicaid_aca_mco, channel: "Medicaid managed care"}
+    OSCR: {group: medicaid_aca_mco, channel: "ACA exchange pure-play (enhanced subsidies)"}
+    NEE:  {group: clean_energy,     channel: "agency funding / clean-energy support"}
+    FSLR: {group: clean_energy,     channel: "clean-energy credits, trade oversight"}
+    ENPH: {group: clean_energy,     channel: "residential solar credits"}
+    ICFI: {group: gov_services,     channel: "federal civilian contracting / agency budgets"}
+    WU:   {group: remittances,      channel: "immigration & remittance policy"}
+  rep_hold_beneficiaries:       # "R+" leg (hurt by a Democratic sweep)
+    LMT:  {group: defense,          channel: "topline defense, reconciliation add-ons"}
+    NOC:  {group: defense,          channel: "topline defense, reconciliation add-ons"}
+    GD:   {group: defense,          channel: "topline defense, reconciliation add-ons"}
+    LHX:  {group: defense,          channel: "topline defense, reconciliation add-ons"}
+    RTX:  {group: defense,          channel: "topline defense, reconciliation add-ons"}
+    XOM:  {group: oil_gas,          channel: "fossil-fuel scrutiny, windfall-tax rhetoric"}
+    CVX:  {group: oil_gas,          channel: "fossil-fuel scrutiny, windfall-tax rhetoric"}
+    COP:  {group: oil_gas,          channel: "leasing / permitting"}
+    DVN:  {group: oil_gas,          channel: "leasing / permitting"}
+    OXY:  {group: oil_gas,          channel: "leasing / permitting"}
+    GEO:  {group: detention,        channel: "ICE detention appropriations"}
+    CXW:  {group: detention,        channel: "ICE detention appropriations"}
+  market: SPY
+  controls: ["CL=F", "^TNX", "^VIX"]
+  estimation_window: ["2024-07-01", "2025-10-31"]   # betas estimated strictly before the study window
+
+topics:
+  n_topics_grid: [10, 15, 20, 25, 30, 35, 40]          # stage 1 (full corpus)
+  n_topics_grid_stage2: [12, 16, 20, 24, 28, 32]        # stage 2 (issue model)
+  random_state: 20261103
+  min_df: 5
+  max_df: 0.4

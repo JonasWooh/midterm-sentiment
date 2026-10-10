@@ -1,0 +1,3 @@
+eval_set,model,n,spearman
+news,transformer_zero_shot,264,0.6686541722962818
+reddit,transformer_zero_shot,304,0.6461518005058476
